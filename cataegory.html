@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Monginis-Cakes And Bakery Productes</title>
+
+    <link rel="stylesheet" href="css/admin.css">
+</head>
+<body>
+    <h1>Monginis</h1>
+
+    <div id="cataegorydiv1">
+        <form action="add_cataegory.php" method="post">
+            <label for="Cataegory name" class="input">Cataegory name:</label> 
+                <input type="text" name="Categoryname" class="input" required placeholder="Cataegory name">
+            <br>
+            <label for="Category status" class="input">Category status:</label>
+                <select name="cataegory_status" class="input" required>
+                    <option value="1">Enable</option> 
+                    <option value="0">Disable</option>
+                </select>
+            <br>
+            <label for="short_dis" class="input">Short discription:</label>
+                <input type="textarea" name="short_dis" class="input" placeholder="Short discription" required> <br>
+            <input type="submit" class="input" placeholder="Submit" id="cat_submit">
+        </form>
+    </div>
+</body>
+</html>

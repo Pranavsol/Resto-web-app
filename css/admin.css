@@ -1,0 +1,32 @@
+body{
+    background-color: #f4ddc4; 
+}
+h1{
+    font-weight: 700;
+    font-family: 'Josefin Sans', sans-serif;
+    color: #f34949;
+    text-align: center;
+}
+#cataegorydiv1{
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+    float: left;
+    border-radius: 15px;
+    font-size: larger;
+    font-family: 'Josefin Sans', sans-serif;
+    padding: 10px;
+    text-align: justify;
+}
+.input{
+    border-radius: 4px;
+    margin: 5px;
+}
+#short_dis{
+    float: inline-end;
+}
+#cat_submit{
+    color: azure;
+    background-color: blue;
+    border-radius: 4px;
+}

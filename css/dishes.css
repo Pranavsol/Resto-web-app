@@ -1,0 +1,45 @@
+#cupcakesmain{
+    width: 100%;
+    background-color: #f4ede5;
+    padding-top: 15px;
+}
+#cupcakesmain1{
+    margin-top: 10px;
+}
+#cupcakesmain1 img{
+    width: 42.5%;
+    margin-left: 5%;
+    margin-right: 2.5%;
+    float: left;
+}
+#cupcakesmain11{
+    width: 42.5%;
+    margin-left: 2.5%;
+    margin-right: 2.5%;
+    float: left;
+    margin-bottom: 10px;
+    background-color: white;
+    padding-left: 20px;
+    padding-top: 10px;
+}
+#cupcakesmain11 li{
+    padding-left: 10px;
+}
+#cupcakesmain11 p{
+    padding-left: 20px;
+}
+#cupcakesmain2{
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+    float: left;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+#cupcakesmain21{
+    background-color: white;
+    padding-left: 20px;
+}
+#cupcakesmain21 td{
+    padding-left: 20px;
+}

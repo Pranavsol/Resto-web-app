@@ -1,0 +1,47 @@
+#loginmaindiv{
+    width: 90%;
+    margin-top: 5px;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 15px;
+    padding-top: 2px;
+    text-align: right;
+    width: 1333px;
+    margin: auto;
+}
+#loginheader{
+    font-size: 25px;
+    margin-left: 10px;
+}
+#loginform{
+    padding: 7px;
+}
+#inner{
+    float: right;
+    text-align: left;
+    padding: 7%;
+    color: white;
+}
+.inputs{
+    border-radius: 3px;
+    border: 5px solid transparent;
+    margin: 4px;
+}
+#reset{
+    margin-left: 5px;
+}
+#registration{
+    color: deepskyblue;
+    text-shadow: 1px skyblue; 
+}
+
+
+#bakecataegory{
+    float:left; 
+    width: 90%; 
+    background-color: brown;
+    border: 1px solid black;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 15px;
+}
